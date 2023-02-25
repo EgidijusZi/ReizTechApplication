@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Branches;
 
+//just an example of hierarchy structure shown in assignment task
 var root = new Branch<int>(1);
 var branch1 = new Branch<int>(2);
 var branch2 = new Branch<int>(3);
