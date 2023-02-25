@@ -26,4 +26,4 @@ grandBranch2.AddBranch(greatgrandBranch1);
 grandBranch3.AddBranch(greatgrandBranch2);
 grandBranch3.AddBranch(greatgrandBranch3);
 
-grandBranch3.AddBranch(greatgreatgrandBranch1);
+greatgrandBranch2.AddBranch(greatgreatgrandBranch1);
