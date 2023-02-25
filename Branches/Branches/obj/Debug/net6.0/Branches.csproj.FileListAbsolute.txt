@@ -1,0 +1,15 @@
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\bin\Debug\net6.0\Branches.exe
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\bin\Debug\net6.0\Branches.deps.json
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\bin\Debug\net6.0\Branches.runtimeconfig.json
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\bin\Debug\net6.0\Branches.dll
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\bin\Debug\net6.0\Branches.pdb
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\obj\Debug\net6.0\Branches.csproj.AssemblyReference.cache
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\obj\Debug\net6.0\Branches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\obj\Debug\net6.0\Branches.AssemblyInfoInputs.cache
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\obj\Debug\net6.0\Branches.AssemblyInfo.cs
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\obj\Debug\net6.0\Branches.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\obj\Debug\net6.0\Branches.dll
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\obj\Debug\net6.0\refint\Branches.dll
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\obj\Debug\net6.0\Branches.pdb
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\obj\Debug\net6.0\Branches.genruntimeconfig.cache
+C:\Users\Ryzen\Desktop\ReizTech\Branches\Branches\obj\Debug\net6.0\ref\Branches.dll
